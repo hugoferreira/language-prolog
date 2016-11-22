@@ -161,7 +161,7 @@
     'name': 'keyword.operator.ifthen.prolog'
   }
   {
-    'match': '=\.\.'
+    'match': '=\\.\\.'
     'name': 'keyword.operator.runtimeeval.prolog'
   }
   {
